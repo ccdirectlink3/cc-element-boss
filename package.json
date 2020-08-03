@@ -2,9 +2,5 @@
   "name": "Element Boss",
   "homepage": "https://github.com/sgrunt/cc-element-boss",
   "description": "Adds a new boss battle to the game.",
-  "version": "0.1.2",
-  "ccmodDependencies": {
-    "ccloader": "^2.7.3",
-    "Simplify": "^2.1.0"
-  }
+  "version": "0.1.2"
 }
