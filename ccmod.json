@@ -1,0 +1,11 @@
+{
+  "id": "element-boss",
+  "version": "0.1.2",
+  "title": {
+    "en_US": "Element Boss"
+  },
+  "description": {
+    "en_US": "Adds a new boss battle to the game."
+  },
+  "homepage": "https://github.com/sgrunt/cc-element-boss",
+}
